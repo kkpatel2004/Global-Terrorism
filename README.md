@@ -51,8 +51,6 @@ The project includes:
 - Bar charts for **most affected countries and attack types**.
 - Correlation heatmaps for **attack attributes**.
 
-## 📜 License
-This project is licensed under the **MIT License**. You are free to use, modify, and distribute the work.
 
 ## 🤝 Contributing
 Contributions are welcome! Feel free to submit issues or pull requests to improve the analysis.
